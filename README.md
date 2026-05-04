@@ -72,15 +72,6 @@ Building [Socialler](https://socialler.net) — a social platform from the groun
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edglz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edglz&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&count_private=true&include_all_commits=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=edglz&hide_border=true&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edglz&theme=tokyonight" />
 </p>
 
@@ -92,6 +83,10 @@ Building [Socialler](https://socialler.net) — a social platform from the groun
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edglz&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edglz&theme=tokyonight&utcOffset=-6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=edglz&hide_border=true&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
