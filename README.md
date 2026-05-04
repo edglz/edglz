@@ -19,41 +19,20 @@ Building [Socialler](https://socialler.net) — a social platform from the groun
 
 ---
 
-### Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-</p>
-
----
-
-### Focus
+### What I'm working on
 
 ```
-backend     NestJS · TypeScript · PostgreSQL · Redis · BullMQ · AWS S3
-mobile      Flutter · Dart · Bloc · go_router · Dio · Hive
-web         Next.js 16 · React 19 · TailwindCSS · Radix · Zustand
-admin       Angular · Playwright
-infra       Docker · microservices (identity, media)
+> Designing and building consumer social products end-to-end.
+> From API and infrastructure to mobile and web clients.
+> Currently focused on scaling Socialler.
 ```
 
-End-to-end product engineering: API design, mobile, web, infrastructure.
+<p align="center">
+  <img src="https://img.shields.io/badge/-social_platforms-0a0a0a?style=for-the-badge&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/-realtime_systems-0a0a0a?style=for-the-badge&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/-cross_platform_apps-0a0a0a?style=for-the-badge&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/-developer_experience-0a0a0a?style=for-the-badge&labelColor=0a0a0a" />
+</p>
 
 ---
 
