@@ -22,6 +22,12 @@
 
 <br />
 
+#### Featured
+
+[**dev-workspace**](https://github.com/edglz/dev-workspace) — reproducible Windows + PowerShell 7 toolbox, 60+ modern CLIs, discoverable profile (`ws` / `cheat` / `rules`).
+
+<br />
+
 #### Activity
 
 <a href="https://github.com/edglz">
